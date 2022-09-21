@@ -1,0 +1,12 @@
+eye = input("Please enter a character for the eye")
+
+print("   _____")
+print(" _/     \_ ")
+print(f"||  {eye}_{eye}  ||")
+print("  \_____/")
+print("  /|   |\ ")
+print(" / /---\ \ ")
+print(" L|     |J ")
+print("  \  |  / ")
+print("   \_|_/     ")
+print("------------")
