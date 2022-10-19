@@ -5,4 +5,3 @@ if code in range(32, 127):
     print(f"The character represented by the ASCII code {code} is: {letter} ")
 else:
     print("please restart programme choosing suitable number with in the range 32-126")
-    
