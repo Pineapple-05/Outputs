@@ -1,6 +1,6 @@
 import csv
 
-with open ("csv1.csv") as file:
+with open ("csv11.csv") as file:
     csv_reader = csv1.reader(file)
     headings = next(csv_reader)
 
