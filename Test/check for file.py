@@ -3,7 +3,6 @@ import csv
 reviews_data=[]
 
 line_count = 0
-if
     with open("csv1.csv") as file:
         csv_reader = csv.reader(file)
         for count in csv_reader:
