@@ -1,7 +1,7 @@
 import csv
 
 with open ("csv11.csv") as file:
-    csv_reader = csv1.reader(file)
+    csv_reader = csv.reader(file)
     headings = next(csv_reader)
 
     for row in csv_reader:
