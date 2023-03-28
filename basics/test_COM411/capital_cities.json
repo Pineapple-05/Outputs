@@ -1,0 +1,12 @@
+{
+  "countries": [
+    {
+      "country": "United Kingdom",
+      "capital": "London"
+    },
+    {
+      "country": "Spain",
+      "capital": "Madrid"
+    }
+  ]
+}
